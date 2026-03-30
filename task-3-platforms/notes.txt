@@ -1,0 +1,18 @@
+Task 3 – Coding & Collaboration Platforms
+
+Part A – Coding Platform: HackerRank
+Challenge Completed: Solve Me First (Algorithms - Warmup)
+Result: Success - 1 point earned
+
+Part B – Google Forms
+Form Title: Digital Literacy Awareness Quiz
+Questions: 5 (4 Multiple Choice, 1 Short Answer)
+Form Link: https://docs.google.com/forms/d/e/1FAIpQLSf_yZfDnFOm9R4ULE5UeDQgcxkfIsTwzzOudhr7hwPFb51JUg/viewform?usp=header
+
+Screenshots in this folder:
+-PART A hacker rank1.png
+-PART A hacker rank2.png
+-PART B quiz1.png
+-PART B quiz2.png
+-PART B quiz3.png
+-PART B RESPONSE SHEET.png
